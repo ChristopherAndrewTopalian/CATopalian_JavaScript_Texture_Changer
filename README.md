@@ -1,5 +1,5 @@
 # CATopalian JavaScript Texture Changer
-A JavaScript app that allows the user to choose multiple texturse from any folder, go forward, backward and choose random textures from the files loaded.
+A JavaScript app that allows the user to choose multiple textures from any folder, go forward, backward and choose random textures from the files loaded.
 
 ---
 
